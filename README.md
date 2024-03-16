@@ -1,6 +1,4 @@
-Certainly! Here's an extended version of the README content for the "House Prediction" project:
 
----
 
 # House Prediction
 
