@@ -70,4 +70,4 @@ Contributions to the House Prediction project are welcome! If you'd like to cont
 
 ## Contact
 
-For inquiries or feedback, feel free to contact the project maintainer at [email@example.com](mailto:email@example.com).
+For inquiries or feedback, feel free to contact the project maintainer at [subhrajitbehera6370@gmail.com](mailto:subhrajitbehera6370@gmail.com).
