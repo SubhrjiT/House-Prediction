@@ -1,8 +1,8 @@
 
 
-# House Prediction
+# House Price Prediction
 
-Welcome to the House Prediction project! This project aims to develop a machine learning model for predicting house prices based on various features.
+Welcome to the House Price Prediction project! This project aims to develop a machine learning model for predicting house prices based on various features.
 
 ## About the Project
 
